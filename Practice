@@ -7,9 +7,7 @@ Docker container for running the phishing attack using Blackeye
 
 Blackeye is a Phishing Tool, with 32 templates +1 customizable.
 
-I am creating a docker container where you can run blackeye in any platform.
-
-### Usage:
+I 
 
 ```
 
